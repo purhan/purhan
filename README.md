@@ -26,6 +26,12 @@ When I'm not building at scale, I'm usually refining my keyboard-driven Linux wo
 
 ## 🚀 Featured Projects
 
+### 📈 [StockSage](https://stocksage.site)
+An **autonomous Indian market intelligence dashboard** providing AI-curated stock recommendations and real-time exit signals. 
+* **Engine:** Built with **React 18**, **TypeScript**, and **Supabase** (Deno Functions).
+* **Automation:** Implemented complex market scanning logic via **Inngest** for daily autonomous analysis at market open.
+* **Intelligence:** Features source credibility auditing and automated bearish flag detection for NSE/BSE stocks.
+
 ### ⚡ [NetEngine](https://github.com/purhan/netengine)
 A high-performance, low-latency networking engine designed for distributed systems. Built with C++, it focuses on maximizing throughput and minimizing jitter for core infrastructure services.
 
@@ -69,4 +75,3 @@ My personal development environment. This is primarily a highly customized **Awe
 - 🌐 [Portfolio](https://purhan.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/purhan)
 
-*"Simplicity is the ultimate sophistication."* ✨
