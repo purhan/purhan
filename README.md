@@ -26,6 +26,9 @@ When I'm not building at scale, I'm usually refining my keyboard-driven Linux wo
 
 ## 🚀 Featured Projects
 
+>[!TIP]
+> Check out my [Portfolio](https://purhan.github.io) to see these in action!
+
 ### 📈 [StockSage](https://stocksage.site)
 An **autonomous Indian market intelligence dashboard** providing AI-curated stock recommendations and real-time exit signals. 
 * **Engine:** Built with **React 18**, **TypeScript**, and **Supabase** (Deno Functions).
